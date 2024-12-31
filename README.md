@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://leetcard.jacoblin.cool/pepperoni?ext=heatmap)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
