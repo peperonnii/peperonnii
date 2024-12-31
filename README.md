@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://leetcard.jacoblin.cool/pepperonii?theme=transparent&font=Rubik&border=1&radius=8&height=200&width=500)
+![](https://leetcard.jacoblin.cool/pepperonii?sheets=https://gist.github.com/peperonnii/fff920929e880e88109c4af6d5f5efbd&theme=transparent&font=Rubik&border=1&radius=8&height=200&width=500)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
