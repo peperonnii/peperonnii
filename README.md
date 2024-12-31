@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://leetcard.jacoblin.cool/pepperonii?theme=dark&font=Rubik&ext=heatmap&border=0&radius=16&height=75&width=500)
+![](https://leetcard.jacoblin.cool/pepperonii?theme=transparent&font=Rubik&ext=heatmap&border=0&radius=16&height=75&width=500)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
