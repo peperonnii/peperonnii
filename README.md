@@ -5,7 +5,7 @@ a-level: ComputerScience, Italian, Mathematics, FutherMathematics - (pred: A*A*A
 ```
 
 
-![](https://leetcard.jacoblin.cool/pepperonii?sheets=https://gist.github.com/peperonnii/fff920929e880e88109c4af6d5f5efbd&theme=dark&font=Rubik&border=1&radius=8&height=200&width=500)
+![](https://leetcard.jacoblin.cool/pepperonii?sheets=https://gist.github.com/peperonnii/fff920929e880e88109c4af6d5f5efbd&theme=nord&font=Rubik&border=1&radius=8&height=200&width=500)
 
 <!--
 - 🔭 I’m currently working on ...
