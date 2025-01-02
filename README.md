@@ -1,9 +1,7 @@
 ### Hello 👋
-
+###### Self-educated student.
 ```python
-Self-educated student.
-Studying a-level: Computer Science, Mathematics, Futher Mathematics, Italian
-(pred: A*A*A*B )
+a-level: Computer Science, Italian, Mathematics, FutherMathematics - (pred: A*A*A*B)
 ```
 
 
