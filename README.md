@@ -1,5 +1,5 @@
 ### Hello 👋
-###### Self-educated student.
+###### Self-educated, independent student.
 ```python
 a-level: ComputerScience, Italian, Mathematics, FutherMathematics - (pred: A*A*A*B)
 ```
