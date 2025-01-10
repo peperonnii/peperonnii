@@ -3,7 +3,7 @@
 ###### Self-educated, independent student.
 
 ```python
-a-level: ComputerScience, Italian, Mathematics, FutherMathematics - (pred: A*A*A*B)
+a-level: ComputerScience, Italian, Mathematics, FurtherMathematics - (pred: A*A*A*B)
 ```
 <details>
   <summary>Competitive Programming</summary>
