@@ -1,11 +1,13 @@
-### Hello 👋
+<h3 align=center>Hello 👋</h3>
+
 ###### Self-educated, independent student.
+
 ```python
 a-level: ComputerScience, Italian, Mathematics, FutherMathematics - (pred: A*A*A*B)
 ```
-
-
-![](https://leetcard.jacoblin.cool/pepperonii?sheets=https://gist.github.com/peperonnii/fff920929e880e88109c4af6d5f5efbd&theme=nord&font=Rubik&border=2&radius=6&height=200&width=500)
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/pepperonii?sheets=https://gist.github.com/peperonnii/fff920929e880e88109c4af6d5f5efbd&theme=nord&font=Rubik&border=2&radius=6&height=200&width=500" alt="LeetCard">
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
